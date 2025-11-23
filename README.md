@@ -34,5 +34,5 @@ The theory is falsifiable through nanoparticle interferometry. Detection of mass
 
 ## License
 
-()
+MIT License
 “Gravity is not fundamental—it is the elastic response of the vacuum phase to energy.”
